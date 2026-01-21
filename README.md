@@ -9,10 +9,11 @@ This repository contains Python scripts for calculating and estimating **Climate
 Climate analogs are identified by comparing key weather and climate metrics across different regions. This approach reveals geographical areas that, despite being potentially far apart, share similar patterns of climate extremes.
 
 **Current metrics include:**
-- **Heat extremes**: Number of days exceeding a Heat Index of 37°C (98.6°F)
-- Additional extreme weather metrics (customizable based on research needs)
+- **Wet Bulb Globe Tempreature**
+<!--- **Heat extremes**: Number of days exceeding a Heat Index of 37°C (98.6°F)
+- Additional extreme weather metrics (customizable based on research needs)-->
 
-These metrics capture the intensity and frequency of impactful weather events that affect ecosystems, human health, agriculture, and infrastructure.
+We will be adding more metrics to capture the intensity and frequency of impactful weather events that affect ecosystems, human health, agriculture, and infrastructure.
 
 ### Constraining Analogs by Global Biomes
 
